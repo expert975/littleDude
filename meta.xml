@@ -1,0 +1,15 @@
+<meta>
+  <info author="expert975" version="0.1" name="LittleDude" description="Little dude runs into his checkpoint" type="script"  />
+
+  <!-- A bit of OOP to makes it even more fun -->
+	<oop>true</oop>
+
+  <!-- Client -->
+  <script src="cDude.lua" type="client" />
+
+  <!-- Hud -->
+  <file src="img/running.png" />
+  <file src="img/safeArea.png" />
+  <file src="img/dangerArea.png" />
+
+</meta>
